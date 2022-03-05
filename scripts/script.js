@@ -535,7 +535,7 @@ const app = {
         })
     },
     start() {
-        this.loadConfig()
+     //   this.loadConfig()
         this.loadCurrentSong()
 
         this.render();
