@@ -76,123 +76,52 @@ const app = {
         {
             name: "I Like You So Much",
             singer: "Ysabelle",
-            path: ".././assets/musics/I-Like-You-So-Much.mp3",
+            path: "https://mp3-s1-zmp3.zadn.vn/edd20aadd9e930b769f8/2971806970040545113?authen=exp=1646657486~acl=/edd20aadd9e930b769f8/*~hmac=889e13a1756cedaac87aa164d45609e3&fs=MTY0NjQ4NDY4NjQ3Nnx3ZWJWNnwwfDE0LjI0MC45OC4xNDQ",
             image:
-                " .././assets/imgs/Ysabelle.jpg"
+                " https://i1.sndcdn.com/artworks-000514246293-tnfsei-t500x500.jpg"
         },
-        {
-            name: "Believer",
-            singer: "Imagine Dragons",
-            path: ".././assets/musics/Believer.mp3",
-            image:
-                " .././assets/imgs/Believer.jpg"
-        },
-        {
-            name: "Summertime-[Sunshine]",
-            singer: "K-391",
-            path: ".././assets/musics/Summertime-[Sunshine].mp3",
-            image:
-                " .././assets/imgs/Summertime-[Sunshine].jpg"
-        },
+        
+        
         {
             name: "Unstoppable",
             singer: "Sia",
-            path: ".././assets/musics/Unstoppable.mp3",
+            path: "https://vnso-zn-23-tf-mp3-s1-zmp3.zadn.vn/d50ff48b56cfbf91e6de/5669456849702829973?authen=exp=1646656313~acl=/d50ff48b56cfbf91e6de/*~hmac=7c66fbcd290f50a3e4ef62bdaf516559&fs=MTY0NjQ4MzUxMzQ4Mnx3ZWJWNnwwfDEyMy4yNC4xNDMdUngMjmUsIC",
             image:
-                " .././assets/imgs/Unstoppable.jpg"
+                " https://i.ytimg.com/vi/shLUsd7kQCI/maxresdefault.jpg"
         },
-        {
-            name: "Buồn Thì Cứ Khóc Đi",
-            singer: "Lynk Lee",
-            path: ".././assets/musics/buon-thi-cu-khoc-di.mp3",
-            image:
-                " .././assets/imgs/buon-thi-cu-khoc-di.jpg"
-        },
-        {
-            name: "Monsters",
-            singer: "Katie Sky ",
-            path: ".././assets/musics/Monsters.mp3",
-            image:
-                " .././assets/imgs/Monsters.jpg"
-        },
+        
+        
         {
             name: "колыбельная",
             singer: "Rauf & Faik ",
-            path: ".././assets/musics/колыбельная.mp3",
+            path: "https://mp3-s1-zmp3.zadn.vn/88238c369b71722f2b60/1954646310395338664?authen=exp=1646662966~acl=/88238c369b71722f2b60/*~hmac=e7b004ee19d87c1334a95fc9baf94054&fs=MTY0NjQ5MDE2NjM0N3x3ZWJWNnw1MzUwMzYzMnwxNzEdUngMjQ5LjE3OS4yMDA",
             image:
-                " .././assets/imgs/колыбельная.jpg"
+                " https://photo-resize-zmp3.zadn.vn/w94_r1x1_webp/cover/a/e/a/f/aeaf0ea7983a9582abac187a7ea7f09e.jpg"
         },
-        {
-            name: "Lemon-Tree",
-            singer: "Fool's Garden",
-            path: ".././assets/musics/Lemon-Tree.mp3",
-            image:
-                " .././assets/imgs/Lemon-Tree.jpg"
-        },
-        {
-            name: "Until",
-            singer: "Raftaar  ",
-            path: ".././assets/musics/TheFatRat.mp3",
-            image: "https://avatar-ex-swe.nixcdn.com/song/2018/11/02/e/6/b/b/1541139353539_500.jpg"
-        },
+        
+   
         {
             name: "Hello",
             singer: "OMFG",
-            path: ".././assets/musics/OMFG - Hello.mp3",
+            path: "https://vnso-zn-16-tf-mp3-s1-zmp3.zadn.vn/6355dce945adacf3f5bc/370262801456987038?authen=exp=1646656906~acl=/6355dce945adacf3f5bc/*~hmac=37bfd91c28ac6a9c79bfc79313a8a810&fs=MTY0NjQ4NDEwNjM1M3x3ZWJWNnwwfDE0LjI0MC45OC4xNDQ",
             image: "https://i1.sndcdn.com/artworks-000136224911-0qsug2-t500x500.jpg"
 
         },
         {
             name: "Fade",
             singer: "Alan Walker",
-            path: ".././assets/musics/Faded.mp3",
+            path: "https://mp3-s1-zmp3.zadn.vn/15175e1f0b58e206bb49/1788040993047708896?authen=exp=1646656929~acl=/15175e1f0b58e206bb49/*~hmac=0cd92bafcdd31043b3b7ec93755a3a70&fs=MTY0NjQ4NDEyOTk2NHx3ZWJWNnwwfDExMy4xNjEdUngMTMyLjkz",
             image: "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/07/19/8/1/6/a/1531967352055.jpg"
         },
         {
             name: " Fade (Hell's Speaker Remix)  ",
             singer: "Raftaar x Nawazuddin Siddiqui",
-            path: ".././assets/musics/Alan Walker - Fade (Hell's Speaker Remix) Ft. Isabel Park.mp3",
+            path: "https://mp3-s1-zmp3.zadn.vn/df6a7496add2448c1dc3/1098364174222460039?authen=exp=1646657051~acl=/df6a7496add2448c1dc3/*~hmac=75a727311a181df8a23815c08bdd6511&fs=MTY0NjQ4NDI1MTE0OXx3ZWJWNnwwfDE0LjI0MC45OC4xNDQ",
             image:
                 "https://a10.gaanacdn.com/images/song/39/24225939/crop_480x480_1536749130.jpg"
         },
-        {
-            name: "SummerSong",
-            singer: "Ektrolomia",
-            path: ".././assets/musics/Summersong.mp3",
-            image:
-                "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/05/04/b/8/c/f/1525423740808.jpg"
-        },
-        {
-            name: "Người tôi yêu",
-            singer: "Chi dân",
-            path: ".././assets/musics/nguoi-toi-yeu.mp3",
-            image:
-                " .././assets/imgs/nguoi-toi-yeu.jpg"
-
-        },
-        {
-            name: "Đau để trưởng thành",
-            singer: "OnlyC",
-            path: ".././assets/musics/dau-de-truong-thanh.mp3",
-            image:
-                " .././assets/imgs/dau-de-truong-thanh.jpg"
-
-        },
-        {
-            name: "Cô gái nông thôn",
-            singer: "Link Lee",
-            path: ".././assets/musics/co-gai-nong-thon.mp3",
-            image:
-                " .././assets/imgs/co-gai-nong-thon.jpg"
-
-        },
-        {
-            name: "Yêu anh em nhé",
-            singer: "Tùng Viu",
-            path: ".././assets/musics/yeu-anh-em-nhe.mp3",
-            image:
-                " .././assets/imgs/yeu-anh-em-nhe.jpg"
-        }
+  
+     
 
     ],
     render() {
@@ -279,7 +208,7 @@ const app = {
     loadConfig() {
 
         if (typeof (this.config.currentIndexSong) !== 'undefined') {
-            const currentTime = this.formatTime(Math.floor(this.config.currentTime)) || '0'
+            const currentTime = this.formatTime(Math.floor(this.config.currentTime)) || '0:00'
             const currentSong = this.songs[this.config.currentIndexSong].name || this.songs[0].name
             const questions = confirm(`Vừa rồi bạn đã nghe bài ${currentSong} tại phút thứ ${currentTime}. Bạn có muốn nghe tiếp không ? `)
             if (questions) {
@@ -319,7 +248,7 @@ const app = {
         nameSong.innerHTML = this.songs[this.currentIndexSong].name
         audio.src = this.songs[this.currentIndexSong].path
         dashboardBg.style.backgroundImage = `url('${this.songs[this.currentIndexSong].image}')`
-
+        duration.innerHTML = '0:00'
     },
 
     //handle events
@@ -449,7 +378,7 @@ const app = {
                 _this.setConfig('currentTime', audio.currentTime)
 
                 currentTime.innerHTML = _this.formatTime(audio.currentTime)
-                duration.innerHTML = _this.formatTime(audio.duration)
+                duration.innerHTML = _this.formatTime(audio.duration) || '0:00'
 
             }
         })
